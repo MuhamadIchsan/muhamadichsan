@@ -7,7 +7,7 @@
 I’m a passionate **Flutter developer**, **frontend developer** specializing in **React.js**, and **backend developer** skilled in **Golang**, **Node.js**, and **Laravel**. I enjoy creating performant, scalable applications and constantly exploring new technologies to improve my skill set.
 
 - 💬 Ask me about **Flutter, React.js, Golang, Node.js, or Laravel**.
-- 📫 How to reach me: mhmdiksan2121@gmail.com.
+- 📫 How to reach me: mhmdiksan2121@gmail.com. | https://www.linkedin.com/in/muhamadichsan26
 
 ## Tech Stack
 ### Frontend
